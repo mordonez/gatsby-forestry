@@ -13,6 +13,6 @@ blocks:
   background: dark
   orientation: normal
   title: Image
-  content: Lorem ipsum bla bla bla
+  content: Lorem ipsum bla bla bla2
 
 ---
