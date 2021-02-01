@@ -9,8 +9,8 @@ blocks:
   subtitle: subtitle
 - template: block__feature
   component: feature
-  image: "/images/ironman.JPG"
-  background: dark
+  image: "/images/4-curses.jpg"
+  background: light
   orientation: normal
   title: Image
   content: Lorem ipsum bla bla bla2
